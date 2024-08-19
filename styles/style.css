@@ -1,0 +1,19 @@
+header{
+  background: bisque;
+}
+body{
+  background: url("../images/Bg.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+h1{
+  color: maroon;
+  background: peachpuff;
+}
+main{
+  background-color: rgba(245, 245, 220, 0.4);
+}
+.images{
+  display: inline;
+}

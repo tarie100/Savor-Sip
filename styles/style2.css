@@ -1,0 +1,16 @@
+.images{
+  display: flex;
+}
+.images img{
+  width: 25%;
+  margin:10
+}
+.imagess{
+  display: flex;
+}
+.imagess img{
+  width: 40%;
+}
+.des{
+  background-color: rgba(255, 229, 204, 0.7);
+}
